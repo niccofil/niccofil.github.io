@@ -249,7 +249,7 @@ header {
 }
 
 .text-container{
-  width: 100%;
+  width: 50%;
   line-height: 2em;
   font-family: Georgia,serif;
   text-align: left;
@@ -384,4 +384,11 @@ header {
   .check-container{
     text-align: center;
   }
+
+
+
+  .text-container h2{
+    width: 95vw;
+  }
+
 }
