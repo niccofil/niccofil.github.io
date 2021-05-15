@@ -161,7 +161,7 @@ header {
   justify-content:space-evenly;
   margin-top: 40px;
   min-height: 65vh;
-  padding: 0 5px;
+  padding: 0 10px;
 }
 
 .img-box img {
@@ -249,7 +249,7 @@ header {
 }
 
 .text-container{
-  width: 50%;
+  width: 100%;
   line-height: 2em;
   font-family: Georgia,serif;
   text-align: left;
