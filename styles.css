@@ -328,10 +328,6 @@ header {
     font-size: 5vh;
   }
 
-  .index-main{
-    justify-content: space-evenly;
-  }
-
   .text-box{
     font-size: 1em;
   }
@@ -349,11 +345,7 @@ header {
   .text-container{
     width: auto;
     padding: 5px;
-  }
-
-  .text-container h2{
-    width: max-content;
-  }
+  } 
 }
 
 @media screen and (max-width: 420px) {
@@ -383,12 +375,6 @@ header {
 
   .check-container{
     text-align: center;
-  }
-
-
-
-  .text-container h2{
-    width: 95vw;
   }
 
 }
